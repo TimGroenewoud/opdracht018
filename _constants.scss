@@ -1,0 +1,8 @@
+$background-color: orange;
+$background-color-sections:darkgreen;
+$padding: 100px;
+
+@mixin center-flex {
+    display: flex;
+    align-items: center;
+}
